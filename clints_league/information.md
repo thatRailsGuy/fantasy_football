@@ -2,6 +2,7 @@
 
 - Moved to sleeper.com league from yahoo
 - Half point PPR scoring
+- Six point passing TD
 - Overhauled defensive scoring
 - Dan taking over Shawn's team (died)
 - Ty taking over Emily's team (dead to me)
