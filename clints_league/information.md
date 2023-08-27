@@ -56,11 +56,45 @@ The winner of each division will get seeds 1-4, with the fifth and sixth seed go
 
 ### 2022 Season
 
+**First:**  Shawn
 
+**Second:** Robert
+
+**Third:** Al
+
+**First Place Regular Season:** Clint
+
+**Highest Regular Season Points:** Shawn
+
+**Highest Single Week Points:** Robert
+
+**Rookie of the Cob:** (no rookies)
+
+****Recap****
+
+On a last ditch run to a championship with time running out, Shawn barely made the playoffs but rode on the backs of Jerrick McKinnon and Jalen Hurts to go out on top of the league. Robert finished runner-up, narrowly missing somebody cashing the bet on the sexy calendar. 
 
 ### 2021 Season
 
+Emily joined the league!
 
+**First:**  Brian
+
+**Second:** Pat
+
+**Third:** Jon
+
+**First Place Regular Season:** Brian
+
+**Highest Regular Season Points:** Brian
+
+**Highest Single Week Points:** Rodney
+
+**Rookie of the Cob:** Emily
+
+****Recap****
+
+Brian continued his streak of excellence, finishing 10-4 and winning the tie-breaker against Pat and Jon who were also 10-4. He beat them both in his run to his second championship in a row (3rd regular season). 
 
 ### 2020 Season
 
