@@ -177,10 +177,10 @@ There are no penalties for trading away players/draft picks at any time prior to
 
 There will be no official rule against ‘tanking’ BUT the following conditions must be met each week:
 
-* Managers CANNOT leave any empty spots on their roster
-* Managers may not start any player that is OUT, on a bye week, or inactive on game day for any reason. 
-* QBs must be the projected starter for their team
-* No ‘special teams only’ players (i.e., you can’t start Matthew Slater at WR). 
+- Managers CANNOT leave any empty spots on their roster
+- Managers may not start any player that is OUT, on a bye week, or inactive on game day for any reason. 
+- QBs must be the projected starter for their team
+- No ‘special teams only’ players (i.e., you can’t start Matthew Slater at WR). 
 
 If any of these situations occur, the ‘Incomplete Lineup Penalties’ will be assessed to the team in question.
 
@@ -190,13 +190,12 @@ Tanking may be new to some, or it may be extremely against your fantasy football
 
 There are two reasons this ‘version’ of tanking is allowed: 
 
-•	It is a strategy that, with the proper rules/regulations surrounding it (as so), some people prefer to have out there as an option. A team can (at best) get in the bottom four, but outside of that, they have no control of where they finish a season, as the MAX PF takes care of that. Also, with starting active player requirements, this can limit full-on ‘tanking’ from occurring as well.
-•	It takes away the ‘decision making’ process surrounding this sensitive topic. If the power was solely in my hands to decide (as commissioner) if someone was tanking (which can be done very subtly or very obviously), this can create a LOT more controversy of me having ‘too much power/opinion’ in something that technically can’t be proven if its a close call. The majority of league members expressed they felt this way when the league started, and still do, regarding the way this issue should be handled, so this is how it will continue to be set up moving forward.
+- It is a strategy that, with the proper rules/regulations surrounding it (as so), some people prefer to have out there as an option. A team can (at best) get in the bottom four, but outside of that, they have no control of where they finish a season, as the MAX PF takes care of that. Also, with starting active player requirements, this can limit full-on ‘tanking’ from occurring as well.
+- It takes away the ‘decision making’ process surrounding this sensitive topic. If the power was solely in my hands to decide (as commissioner) if someone was tanking (which can be done very subtly or very obviously), this can create a LOT more controversy of me having ‘too much power/opinion’ in something that technically can’t be proven if its a close call. The majority of league members expressed they felt this way when the league started, and still do, regarding the way this issue should be handled, so this is how it will continue to be set up moving forward.
 
 Anyone that decides to drop ‘good’ players will be potentially (but more than likely) removed from the league at the discretion of the commissioner. This is tanking, quitting, and potentially even collusion combined into one and is FORBIDDEN (and pointless if you have a long-term interest in the league). If you lose interest in the league, reach out and we can find a solution; don’t destroy the integrity of the league just because you are no longer interested. 
 
 The commissioner may return any dropped players to the roster they were dropped from if the decision to remove the manager happens in a timely manner and it is deemed (by the commissioner) in the best interest of the league (even if that means taking players from a manager who picked them up off of waivers).  
-
 
 FINAL TAKEAWAY: Because of the inability to include all possible scenarios within these rules, the commissioner will also assume the governing position for the league. If any rule violations,  issues, ambiguities, loopholes or other problems come up, the commissioner will address the issue to the league, seek their input if he deems necessary, and then determine the best course of action. The commissioner has the final say in how rulings will be implemented for any specific situation. 
 
