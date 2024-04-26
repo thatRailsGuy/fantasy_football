@@ -14,7 +14,7 @@ $25 should be paid to Clint no later than August 15.
 
 |  Year | Champion  | Runner Up | Third Place | Last      |
 |:-----:|-----------|-----------|-------------|-----------|
-| 2023  | Jillian.  | Dan       | Clint       | Robert    |
+| 2023  | Jillian   | Dan       | Clint       | Robert    |
 | 2022  | Shawn     | Robert    | Al          | Rodney    |
 | 2021  | Brian     | Pat       | Jon         | Robert    |
 | 2020  | Brian     | Al        | Jillian     | Andrew    |
@@ -27,7 +27,7 @@ $25 should be paid to Clint no later than August 15.
 
 ## Keeper Information
 
-See data here: <https://docs.google.com/spreadsheets/d/1rhI9nqcXW6--iO483GFTGl5JIVjAN7R1-J2pog7_X5w/edit#gid=503461250>
+See data here: <https://docs.google.com/spreadsheets/d/1rhI9nqcXW6--iO483GFTGl5JIVjAN7R1-J2pog7_X5w/edit#gid=1020855647>
 
 You may keep players for (10y-5) more than was paid for them the year before, where y is the year. (the price goes up 5, then 15, then 25, etc). 
 
