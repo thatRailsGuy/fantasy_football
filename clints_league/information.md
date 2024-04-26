@@ -1,11 +1,7 @@
-## 2023 Changes
+## 2024 Info
 
-- Moved to sleeper.com league from yahoo
-- Half point PPR scoring
-- Six point passing TD
-- Overhauled defensive scoring
-- Dan taking over Shawn's team (died)
-- Ty taking over Emily's team (dead to me)
+- Nothing new as of 4/26/24
+- League is on sleeper. 
 
 ## Payment Info
 
@@ -16,17 +12,18 @@ $25 should be paid to Clint no later than August 15.
 
 ## League History
 
-|  Year | Champion | Runner Up | Third Place | Last    |
-|:-----:|----------|-----------|-------------|---------|
-| 2022  | Shawn    | Robert    | Al  | Rodney  |
-| 2021  | Brian    | Pat       | Jon         | Robert  |
-| 2020  | Brian    | Al        | Jillian     | Andrew  |
-| 2019  | Clint    | Rodney    | Brian Kruse | Jillian |
-| 2018  | Jillian  | Pat       | Clint       | Voldemort   |
-| 2017  | Jen      | Clint     | Andrew      | Molly   |
-| 2016  | Justin   | Rodney    | Voldemort       | TJ      |
-| 2015  | Molly    | Andrew    | Jon         |  Juan   |
-| 2014  | Voldemort    | Robert    | Clint       | Rodney  |
+|  Year | Champion  | Runner Up | Third Place | Last      |
+|:-----:|-----------|-----------|-------------|-----------|
+| 2023  | Jillian.  | Dan       | Clint       | Robert    |
+| 2022  | Shawn     | Robert    | Al          | Rodney    |
+| 2021  | Brian     | Pat       | Jon         | Robert    |
+| 2020  | Brian     | Al        | Jillian     | Andrew    |
+| 2019  | Clint     | Rodney    | Brian Kruse | Jillian   |
+| 2018  | Jillian   | Pat       | Clint       | Voldemort |
+| 2017  | Jen       | Clint     | Andrew      | Molly     |
+| 2016  | Justin    | Rodney    | Voldemort   | TJ        |
+| 2015  | Molly     | Andrew    | Jon         | Juan      |
+| 2014  | Voldemort | Robert    | Clint       | Rodney    |
 
 ## Keeper Information
 
@@ -54,6 +51,26 @@ Divisions will be decided by the playoff seed order (regular season finish) from
 The winner of each division will get seeds 1-4, with the fifth and sixth seed going to next best record according to sleeper.
 
 ## League History
+
+### 2023 Season
+
+**First:**  Jillian
+
+**Second:** Dan
+
+**Third:** Clint
+
+**First Place Regular Season:** Clint
+
+**Highest Regular Season Points:** Clint
+
+**Highest Single Week Points:** Al
+
+**Rookie of the Cob:** Dan
+
+****Recap****
+
+Jillian took the third seed to the playoffs, upsetting Clint and Dan on route to her second championship in 6 years.
 
 ### 2022 Season
 
