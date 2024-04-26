@@ -12,18 +12,18 @@ $25 should be paid to Clint no later than August 15.
 
 ## League History
 
-|  Year | Champion  | Runner Up | Third Place | Last      |
-|:-----:|-----------|-----------|-------------|-----------|
-| 2023  | Jillian   | Dan       | Clint       | Robert    |
-| 2022  | Shawn     | Robert    | Al          | Rodney    |
-| 2021  | Brian     | Pat       | Jon         | Robert    |
-| 2020  | Brian     | Al        | Jillian     | Andrew    |
-| 2019  | Clint     | Rodney    | Brian Kruse | Jillian   |
-| 2018  | Jillian   | Pat       | Clint       | Voldemort |
-| 2017  | Jen       | Clint     | Andrew      | Molly     |
-| 2016  | Justin    | Rodney    | Voldemort   | TJ        |
-| 2015  | Molly     | Andrew    | Jon         | Juan      |
-| 2014  | Voldemort | Robert    | Clint       | Rodney    |
+|  Year | Champion  | Runner Up | Third Place | Top Seed  | Last      | 
+|:-----:|-----------|-----------|-------------|-----------|-----------|
+| 2023  | Jillian   | Dan       | Clint       | Clint     | Robert    |
+| 2022  | Shawn     | Robert    | Al          | Clint     | Rodney    |
+| 2021  | Brian     | Pat       | Jon         | Brian     | Robert    |
+| 2020  | Brian     | Al        | Jillian     | Brian     | Andrew    |
+| 2019  | Clint     | Rodney    | Brian Kruse | Brian     | Jillian   |
+| 2018  | Jillian   | Pat       | Clint       | Jillian   | Voldemort |
+| 2017  | Jen       | Clint     | Andrew      | Clint     | Molly     |
+| 2016  | Justin    | Rodney    | Voldemort   | Jen       | TJ        |
+| 2015  | Molly     | Andrew    | Jon         | Andrew    | Juan      |
+| 2014  | Voldemort | Robert    | Clint       |           | Rodney    |
 
 ## Keeper Information
 
