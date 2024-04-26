@@ -72,6 +72,16 @@ The winner of each division will get seeds 1-4, with the fifth and sixth seed go
 
 Jillian took the third seed to the playoffs, upsetting Clint and Dan on route to her second championship in 6 years.
 
+Ownership Changes:
+- Ty took over Emily's Team.
+- Dan took over Shawn's team
+
+Rule Changes:
+- 6 pt QB TD
+- 0.5 pt PPR
+- New Defensive Scoring
+- Migrated to Sleeper from Yahoo
+
 ### 2022 Season
 
 **First:**  Shawn
