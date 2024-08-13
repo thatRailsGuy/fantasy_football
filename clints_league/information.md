@@ -14,6 +14,7 @@ $25 should be paid to Clint no later than August 15.
 
 |  Year | Champion  | Runner Up | Third Place | Top Seed  | Last      | 
 |:-----:|-----------|-----------|-------------|-----------|-----------|
+| 2024  |           |           |             |           |           |
 | 2023  | Jillian   | Dan       | Clint       | Clint     | Robert    |
 | 2022  | Shawn     | Robert    | Al          | Clint     | Rodney    |
 | 2021  | Brian     | Pat       | Jon         | Brian     | Robert    |
@@ -52,6 +53,12 @@ Divisions will be decided by the playoff seed order (regular season finish) from
 The winner of each division will get seeds 1-4, with the fifth and sixth seed going to next best record according to sleeper.
 
 ## League History
+
+### 2024 Season
+
+Ownership Changes:
+- Clay took over Robert's team
+- Kevin took over Pat's team
 
 ### 2023 Season
 
