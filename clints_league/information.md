@@ -14,7 +14,8 @@ $25 should be paid to Clint no later than August 15.
 
 |  Year | Champion  | Runner Up | Third Place | Top Seed  | Last      | 
 |:-----:|-----------|-----------|-------------|-----------|-----------|
-| 2024  |           |           |             |           |           |
+| 2025  |           |           |             |           |           |
+| 2024  | Clint     | Daniel    | Ty          | Clint     | Kevin     |
 | 2023  | Jillian   | Dan       | Clint       | Clint     | Robert    |
 | 2022  | Shawn     | Robert    | Al          | Clint     | Rodney    |
 | 2021  | Brian     | Pat       | Jon         | Brian     | Robert    |
@@ -55,6 +56,24 @@ The winner of each division will get seeds 1-4, with the fifth and sixth seed go
 ## League History
 
 ### 2024 Season
+
+**First:** Clint
+
+**Second:** Daniel
+
+**Third:** Ty
+
+**First Place Regular Season:** Clint
+
+**Highest Regular Season Points:** Dan
+
+**Highest Single Week Points:** Clint
+
+**Rookie of the Cob:** Clay
+
+****Recap****
+
+Clint rode on the backs of Saquon and King Henry to the championship. Dan and Brian outscored the rest of the league but didn't make the playoffs. 
 
 Ownership Changes:
 - Clay took over Robert's team
