@@ -1,6 +1,6 @@
-## 2024 Info
+## 2025 Info
 
-- Nothing new as of 4/26/24
+- Nothing new as of 8/19/25
 - League is on sleeper. 
 
 ## Payment Info
