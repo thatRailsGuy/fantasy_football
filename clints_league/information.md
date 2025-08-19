@@ -55,6 +55,11 @@ The winner of each division will get seeds 1-4, with the fifth and sixth seed go
 
 ## League History
 
+### 2025 Season
+
+- Ownership Changes:
+Emily took over Jillian's team
+
 ### 2024 Season
 
 **First:** Clint
