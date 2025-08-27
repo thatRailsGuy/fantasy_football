@@ -47,7 +47,7 @@ Undrafted players and other players may be kept for a minimum of $15 of your auc
 
 ## Divisions
 
-Schedule will be determined by three divisions with four teams each. Each team will play everybody in their division twice and everybody else once throughout the season.
+Schedule will be determined by three divisions with four teams each. Each team will play everybody in their division twice and everybody else once throughout the season. See https://www03.myfantasyleague.com/2020/display_schedule?SCHEDULE=1_3_12_14-e
 
 Divisions will be decided by the playoff seed order (regular season finish) from the previous year.
 
