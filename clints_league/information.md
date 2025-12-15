@@ -1,7 +1,26 @@
+## 2026 Info
+
+### Divisions:
+- Top
+  - Brian
+  - Daniel
+  - Rodney
+  - Kevin
+- Mid
+  - Dan
+  - Al
+  - Emily
+  - Ty
+- Bottom
+  - Jon
+  - Clay
+  - Andrew
+  - Clint
+
 ## 2025 Info
 
 - Nothing new as of 8/19/25
-- League is on sleeper. 
+- League is on sleeper.
 
 ## Payment Info
 
@@ -14,7 +33,7 @@ $25 should be paid to Clint no later than August 15.
 
 |  Year | Champion  | Runner Up | Third Place | Top Seed  | Last      | 
 |:-----:|-----------|-----------|-------------|-----------|-----------|
-| 2025  |           |           |             |           |           |
+| 2025  |           |           |             | Brian     | Jon       |
 | 2024  | Clint     | Daniel    | Ty          | Clint     | Kevin     |
 | 2023  | Jillian   | Dan       | Clint       | Clint     | Robert    |
 | 2022  | Shawn     | Robert    | Al          | Clint     | Rodney    |
