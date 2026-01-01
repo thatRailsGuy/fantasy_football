@@ -3,8 +3,8 @@
 ### Divisions:
 - Top
   - Brian
-  - Daniel
-  - Rodney
+  - Daniel - Paid for 2026
+  - Rodney - Paid for 2026
   - Kevin
 - Mid
   - Dan
@@ -17,11 +17,6 @@
   - Andrew
   - Clint
 
-## 2025 Info
-
-- Nothing new as of 8/19/25
-- League is on sleeper.
-
 ## Payment Info
 
 Pay me. $25 paypal.me/clintcecil or venmo / google wallet or in person.
@@ -33,7 +28,7 @@ $25 should be paid to Clint no later than August 15.
 
 |  Year | Champion  | Runner Up | Third Place | Top Seed  | Last      | 
 |:-----:|-----------|-----------|-------------|-----------|-----------|
-| 2025  |           |           |             | Brian     | Jon       |
+| 2025  | Brian     | Rodney    | Daniel      | Brian     | Jon       |
 | 2024  | Clint     | Daniel    | Ty          | Clint     | Kevin     |
 | 2023  | Jillian   | Dan       | Clint       | Clint     | Robert    |
 | 2022  | Shawn     | Robert    | Al          | Clint     | Rodney    |
@@ -75,9 +70,27 @@ The winner of each division will get seeds 1-4, with the fifth and sixth seed go
 ## League History
 
 ### 2025 Season
+**First:** Brian
 
-- Ownership Changes:
-Emily took over Jillian's team
+**Second:** Rodney
+
+**Third:** Daniel
+
+**First Place Regular Season:** Brian
+
+**Highest Regular Season Points:** Daniel
+
+**Highest Single Week Points:** Brian
+
+**Rookie of the Cob:** Emily
+
+****Recap****
+
+Brian reasserted himself as the one who knocks.
+
+Ownership Changes:
+
+- Emily took over Jillian's team
 
 ### 2024 Season
 
